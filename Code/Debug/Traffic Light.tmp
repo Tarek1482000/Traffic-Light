@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\tarek\Desktop\Traffic Light\Code\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\2.0.401\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\tarek\Desktop\Traffic Light\Code\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\2.0.401\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\tarek\Desktop\Traffic Light\Code\Debug\Traffic Light.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Traffic Light.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Traffic Light.map</FILE>
+  <FILE>Traffic Light.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L6><FILE>C:\Users\tarek\Desktop\Traffic Light\Code\main.asm</FILE><LINE>15</LINE></L6>
+  <L3><FILE>C:\Users\tarek\Desktop\Traffic Light\Code\main.asm</FILE><LINE>26</LINE></L3>
+  <start><FILE>C:\Users\tarek\Desktop\Traffic Light\Code\main.asm</FILE><LINE>31</LINE></start>
+  <start2><FILE>C:\Users\tarek\Desktop\Traffic Light\Code\main.asm</FILE><LINE>45</LINE></start2>
+  <L5><FILE>C:\Users\tarek\Desktop\Traffic Light\Code\main.asm</FILE><LINE>59</LINE></L5>
+  <delay_1sec><FILE>C:\Users\tarek\Desktop\Traffic Light\Code\main.asm</FILE><LINE>72</LINE></delay_1sec>
+  <L1><FILE>C:\Users\tarek\Desktop\Traffic Light\Code\main.asm</FILE><LINE>76</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
